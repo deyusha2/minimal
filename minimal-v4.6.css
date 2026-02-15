@@ -502,9 +502,6 @@ div:not(.sectionTitleContainer-cards) > .sectionTitle-cards {
 .drawer-open {
     background-color: rgba(16, 16, 16, 0.86);
 }
-.headerCastButton{
-   display:none!important;
-}
 /*-----------------------------------------------Removes 3 Dots from cards-------------------------------*/
 div.cardOverlayButton-br.flex {display: none;}
 /*-------------------------------------------------------------------------------------------------------*/
